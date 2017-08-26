@@ -1,0 +1,4 @@
+
+akka: 
+  roundRobinPool: 
+    nrOfInstances: 1
